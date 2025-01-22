@@ -1,6 +1,3 @@
-
-# Python Tracking and Forecasting Application
-
 ## Project Overview
 
 This application is designed to perform vehicle tracking and traffic pattern forecasting based on input video data and segment regions. The process is orchestrated by the `app.py` script, which serves as the main entry point for running the entire pipeline.
