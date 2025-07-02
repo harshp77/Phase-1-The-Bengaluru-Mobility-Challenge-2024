@@ -1,6 +1,7 @@
 # Bengaluru Mobility Challenge 2024 - Traffic Tracking and Forecasting
 This repository contains the solution for Phase 1 of the Bengaluru Mobility Challenge 2024, hosted on [IEEE Dataport](https://ieee-dataport.org/competitions/bengaluru-mobility-challenge-2024).
 This application is designed to perform vehicle tracking and traffic pattern forecasting based on input video data and segment regions. The process is orchestrated by the `app.py` script, which serves as the main entry point for running the entire pipeline.
+[Deck](https://docs.google.com/presentation/d/1BIQGH3oxoDyldU-Rh_-rGFmZJGT9XjVRAB3KPWh63IA/edit?usp=sharing)
 
 ## Features
 
